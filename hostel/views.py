@@ -147,4 +147,7 @@ def Register_page(request):
         messages.success(request, "Account created successfully")
         return redirect('/login/')
 
-    return render(request, 'register.html')
+    return render(request, 'register.html
+
+
+    #boobs
